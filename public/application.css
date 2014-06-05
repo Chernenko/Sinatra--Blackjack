@@ -1,0 +1,29 @@
+form#hit_form{
+    float: left;
+    margin-right: 10px;
+}
+form#stay_form{
+    float:left:
+}
+img.card_image{
+    margin: 0px,5px,5px,0px;
+}
+form#dealer_hit{
+    float: left;
+    margin:5px,5px,5px,5px;
+}
+body {
+    padding-top: 70px;
+    background-color: #134a00;
+    background-image: url(/images/bg.jpg);
+}
+p {
+    color: gold;
+}
+
+.well {
+
+    background-color: #203830;
+    border: 1px solid #fdff0c;
+
+}

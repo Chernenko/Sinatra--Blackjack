@@ -1,0 +1,6 @@
+<h4 style="color: gold">Make a bet for this round.</h4>
+<p> <%= #{session[:player_name]} %> has $ 500</p>
+<form action='/make_bet' method='post'>
+<input type="number" name="bet-amount"></br>
+  <input type="submit" class='btn' value="Make Bet">
+</form>
